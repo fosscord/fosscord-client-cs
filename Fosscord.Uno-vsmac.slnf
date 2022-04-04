@@ -1,0 +1,21 @@
+{
+  "solution": {
+    "path": "Fosscord.Uno.sln",
+    "projects": [
+		"Fosscord.Uno.Shared\\Fosscord.Uno.Shared.shproj",
+
+		"Fosscord.Uno.Droid\\Fosscord.Uno.Droid.csproj",
+
+		"Fosscord.Uno.iOS\\Fosscord.Uno.iOS.csproj",
+
+
+		"Fosscord.Uno.Wasm\\Fosscord.Uno.Wasm.csproj",
+
+		"Fosscord.Uno.macOS\\Fosscord.Uno.macOS.csproj",
+
+		"Fosscord.Uno.Skia.Gtk\\Fosscord.Uno.Skia.Gtk.csproj",
+
+		"Fosscord.Uno.Skia.Linux.FrameBuffer\\Fosscord.Uno.Skia.Linux.FrameBuffer.csproj",
+    ]
+  }
+}
